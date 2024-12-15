@@ -1,0 +1,78 @@
+2024-12-15T07:41:52.014590800: THis is a test message
+2024-12-15T08:33:20.985777200: THis is a test message
+2024-12-15T08:33:27.649698700: System configured successfully.
+2024-12-15T08:33:27.658720: com.lab.test.Customer found no tickets available.
+2024-12-15T08:33:27.661699: com.lab.test.Vendor added: Ticket-241879799791400
+2024-12-15T08:33:32.672013400: System terminated.
+2024-12-15T08:35:13.023280800: THis is a test message
+2024-12-15T08:35:17.718783500: System configured successfully.
+2024-12-15T08:35:17.723766900: com.lab.test.Customer found no tickets available.
+2024-12-15T08:35:17.726767100: com.lab.test.Vendor added: Ticket-241989864802000
+2024-12-15T08:35:22.739319900: com.lab.test.Vendor added: Ticket-241994880350900
+2024-12-15T08:35:27.758854200: com.lab.test.Vendor added: Ticket-241999899880000
+2024-12-15T08:35:32.766780900: com.lab.test.Vendor added: Ticket-242004907815100
+2024-12-15T08:35:37.775309300: com.lab.test.Vendor added: Ticket-242009916312600
+2024-12-15T08:35:42.781298600: com.lab.test.Vendor added: Ticket-242014922516400
+2024-12-15T08:35:47.796080700: com.lab.test.Vendor added: Ticket-242019937076700
+2024-12-15T08:35:52.812259900: com.lab.test.Vendor added: Ticket-242024953250200
+2024-12-15T08:57:04.976015: THis is a test message
+2024-12-15T08:57:12.080882200: System configured successfully.
+2024-12-15T08:57:12.086848500: com.lab.test.Customer found no tickets available.
+2024-12-15T08:57:12.090856300: com.lab.test.Vendor added: Ticket-243304228375600
+2024-12-15T08:57:17.094826200: com.lab.test.Vendor added: Ticket-243309235795600
+2024-12-15T08:57:22.104016100: com.lab.test.Vendor added: Ticket-243314245022200
+2024-12-15T08:57:27.108892500: com.lab.test.Vendor added: Ticket-243319249873200
+2024-12-15T08:57:32.117690100: com.lab.test.Vendor added: Ticket-243324258707400
+2024-12-15T08:57:37.120232400: com.lab.test.Vendor added: Ticket-243329261252400
+2024-12-15T08:57:42.128048500: com.lab.test.Vendor added: Ticket-243334269015300
+2024-12-15T08:57:47.131483100: com.lab.test.Vendor added: Ticket-243339272423600
+2024-12-15T13:49:11.739362300: THis is a test message
+2024-12-15T13:49:17.268385400: System configured successfully.
+2024-12-15T13:49:17.276386900: com.lab.test.Customer found no tickets available.
+2024-12-15T13:49:17.279384700: com.lab.test.Vendor added: Ticket-260829417995400
+2024-12-15T13:49:22.288981900: com.lab.test.Vendor added: Ticket-260834430087100
+2024-12-15T13:49:27.300596900: com.lab.test.Vendor added: Ticket-260839441647600
+2024-12-15T13:49:32.308888900: com.lab.test.Vendor added: Ticket-260844449863000
+2024-12-15T13:49:37.310439300: com.lab.test.Vendor added: Ticket-260849451441700
+2024-12-15T13:49:42.317466200: com.lab.test.Vendor added: Ticket-260854458345800
+2024-12-15T13:49:47.320954900: com.lab.test.Vendor added: Ticket-260859461887000
+2024-12-15T13:49:52.323289700: com.lab.test.Vendor added: Ticket-260864464260700
+2024-12-15T13:49:57.327473700: com.lab.test.Vendor added: Ticket-260869468513400
+2024-12-15T13:50:02.332844: com.lab.test.Vendor added: Ticket-260874473864300
+2024-12-15T13:50:07.347430400: System terminated.
+2024-12-15T13:54:17.999378700: THis is a test message
+2024-12-15T13:54:24.684734700: System configured successfully.
+2024-12-15T13:54:24.692734300: com.lab.test.Customer found no tickets available.
+2024-12-15T13:54:24.696733300: com.lab.test.FastVendor added: Ticket-261136834610100
+2024-12-15T13:54:24.699768700: com.lab.test.Vendor added: Ticket-261136834256800
+2024-12-15T13:54:24.699768700: com.lab.test.SlowVendor added: Ticket-261136834556700
+2024-12-15T13:54:27.199809: com.lab.test.FastVendor added: Ticket-261139340795500
+2024-12-15T13:54:29.712883100: com.lab.test.Vendor added: Ticket-261141853903600
+2024-12-15T13:54:34.711352900: com.lab.test.SlowVendor added: Ticket-261146852285400
+2024-12-15T13:54:34.727384600: System terminated.
+2024-12-15T13:55:50.882745400: THis is a test message
+2024-12-15T13:55:56.324508300: System configured successfully.
+2024-12-15T13:55:56.332421800: com.lab.test.Customer found no tickets available.
+2024-12-15T13:55:56.332421800: System terminated.
+2024-12-15T13:55:56.335417400: com.lab.test.FastVendor added: Ticket-261228473032200
+2024-12-15T13:55:58.845957300: com.lab.test.FastVendor added: Ticket-261230986984600
+2024-12-15T13:56:01.360533900: com.lab.test.FastVendor added: Ticket-261233501506500
+2024-12-15T13:56:03.865836800: com.lab.test.FastVendor added: Ticket-261236006878900
+2024-12-15T13:56:06.372977800: com.lab.test.FastVendor added: Ticket-261238513719400
+2024-12-15T13:59:53.830780200: THis is a test message
+2024-12-15T14:00:00.131050400: System configured successfully.
+2024-12-15T14:00:00.139051: com.lab.test.Customer found no tickets available.
+2024-12-15T14:00:00.139051: System terminated.
+2024-12-15T14:00:00.142046400: com.lab.test.SlowVendor added: Ticket-261472279732000
+2024-12-15T14:00:10.154740300: com.lab.test.SlowVendor added: Ticket-261482295755000
+2024-12-15T14:00:20.166442700: com.lab.test.SlowVendor added: Ticket-261492307463700
+2024-12-15T14:08:25.321773200: THis is a test message
+2024-12-15T14:08:29.934063400: System configured successfully.
+2024-12-15T14:08:29.941061800: com.lab.test.Customer found no tickets available.
+2024-12-15T14:08:29.944060200: com.lab.test.SlowVendor added: Ticket-261982082455500
+2024-12-15T14:08:39.960112500: com.lab.test.SlowVendor added: Ticket-261992101160400
+2024-12-15T14:24:16.173366500: THis is a test message
+2024-12-15T14:24:22.107585600: System configured successfully.
+2024-12-15T14:24:22.115534600: com.lab.test.Customer found no tickets available.
+2024-12-15T14:24:22.119709700: com.lab.test.SlowVendor added: Ticket-262934256857900
+2024-12-15T14:24:39.860852: THis is a test message
