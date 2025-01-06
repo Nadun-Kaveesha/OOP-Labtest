@@ -13,13 +13,13 @@ public class Customer extends AbstractTicketHandler implements Runnable {
 
     public void run() {
         while(true) {
-            String ticketRemovedByPriority = this.ticketPool.removeTicketBypriority();
-            if (ticketRemovedByPriority == null) {
+            String ticketRemoved = this.ticketPool.removeTicket();
+            if (ticketRemoved == null) {
                 Logger.log("com.lab.test.Customer found no tickets available.");
                 return;
             }
 
-            Logger.log("com.lab.test.Customer retrieved: " + ticketRemovedByPriority);
+            Logger.log("com.lab.test.Customer retrieved: " + ticketRemoved);
 
             try {
                 Thread.sleep(5000);

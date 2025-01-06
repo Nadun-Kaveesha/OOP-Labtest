@@ -8,5 +8,5 @@ package com.lab.test;
 public interface TicketOperation {
     void addTickets(String var1);
 
-    String removeTicketBypriority();
+    String removeTicket();
 }

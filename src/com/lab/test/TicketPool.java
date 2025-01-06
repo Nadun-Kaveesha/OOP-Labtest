@@ -22,7 +22,7 @@ public class TicketPool implements TicketOperation {
         addedTicketCount ++;
     }
 
-    public synchronized String removeTicketBypriority() {
+    public synchronized String removeTicket() {
         removedTicketcount ++;
         return this.tickets.isEmpty() ? null : (String)this.tickets.remove(0);
 

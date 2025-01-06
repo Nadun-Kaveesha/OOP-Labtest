@@ -11,7 +11,7 @@ public class Main {
 
 
     public static void main(String[] args) throws Exception {
-        Logger.log("THis is a test message");
+        Logger.log("This is a test message");
         Configuration config = CommandLineInterface.configureSystem();
         TicketPool ticketPool = new TicketPool();
         Thread vendor = new Thread(new Vendor(ticketPool, config.getTicketReleaseRate()));
