@@ -1,5 +1,4 @@
 //package com.lab.test;
-//
 //import com.lab.test.Configuration;
 //import com.lab.test.TicketPool;
 //import com.lab.test.Logger;

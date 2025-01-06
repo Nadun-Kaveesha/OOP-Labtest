@@ -11,19 +11,31 @@ import java.util.List;
 
 public class TicketPool implements TicketOperation {
     private final List<String> tickets = Collections.synchronizedList(new LinkedList());
+    private int addedTicketCount =0;
+    private int removedTicketcount =0;
 
     public TicketPool() {
     }
 
     public synchronized void addTickets(String ticket) {
         this.tickets.add(ticket);
+        addedTicketCount ++;
     }
 
-    public synchronized String removeTicket() {
+    public synchronized String removeTicketBypriority() {
+        removedTicketcount ++;
         return this.tickets.isEmpty() ? null : (String)this.tickets.remove(0);
+
     }
+
 
     public int getTicketCount() {
         return this.tickets.size();
+    }
+    public int getAddedTicketCount(){
+        return this.addedTicketCount;
+    }
+    public int getRemovedTicketcount(){
+        return this.removedTicketcount;
     }
 }

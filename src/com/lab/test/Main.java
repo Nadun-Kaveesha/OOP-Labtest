@@ -18,15 +18,25 @@ public class Main {
         Thread fastvendor = new Thread(new FastVendor(ticketPool, config.getTicketReleaseRate()));
         Thread slowvendor = new Thread(new SlowVendor(ticketPool, config.getTicketReleaseRate()));
         Thread customer = new Thread(new Customer(ticketPool));
-        //vendor.start();
+        Thread statisticReporter = new Thread(new StatisticReporter(ticketPool));
+
         //fastvendor.start();
-        slowvendor.start();
+        //slowvendor.start();
+
+        //statisticReporter.start();
+        vendor.start();
+        // Wait for 10 seconds before starting the customer thread
+        try {
+            Thread.sleep(10000);
+        } catch (InterruptedException e) {
+            Logger.log("Main thread interrupted during sleep.");
+        }
         customer.start();
 
 
 
         try {
-            slowvendor.join();
+            vendor.join();
             customer.join();
         } catch (InterruptedException var6) {
             Logger.log("com.lab.test.Main thread interrupted.");

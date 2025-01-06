@@ -1,78 +1,144 @@
-2024-12-15T07:41:52.014590800: THis is a test message
-2024-12-15T08:33:20.985777200: THis is a test message
-2024-12-15T08:33:27.649698700: System configured successfully.
-2024-12-15T08:33:27.658720: com.lab.test.Customer found no tickets available.
-2024-12-15T08:33:27.661699: com.lab.test.Vendor added: Ticket-241879799791400
-2024-12-15T08:33:32.672013400: System terminated.
-2024-12-15T08:35:13.023280800: THis is a test message
-2024-12-15T08:35:17.718783500: System configured successfully.
-2024-12-15T08:35:17.723766900: com.lab.test.Customer found no tickets available.
-2024-12-15T08:35:17.726767100: com.lab.test.Vendor added: Ticket-241989864802000
-2024-12-15T08:35:22.739319900: com.lab.test.Vendor added: Ticket-241994880350900
-2024-12-15T08:35:27.758854200: com.lab.test.Vendor added: Ticket-241999899880000
-2024-12-15T08:35:32.766780900: com.lab.test.Vendor added: Ticket-242004907815100
-2024-12-15T08:35:37.775309300: com.lab.test.Vendor added: Ticket-242009916312600
-2024-12-15T08:35:42.781298600: com.lab.test.Vendor added: Ticket-242014922516400
-2024-12-15T08:35:47.796080700: com.lab.test.Vendor added: Ticket-242019937076700
-2024-12-15T08:35:52.812259900: com.lab.test.Vendor added: Ticket-242024953250200
-2024-12-15T08:57:04.976015: THis is a test message
-2024-12-15T08:57:12.080882200: System configured successfully.
-2024-12-15T08:57:12.086848500: com.lab.test.Customer found no tickets available.
-2024-12-15T08:57:12.090856300: com.lab.test.Vendor added: Ticket-243304228375600
-2024-12-15T08:57:17.094826200: com.lab.test.Vendor added: Ticket-243309235795600
-2024-12-15T08:57:22.104016100: com.lab.test.Vendor added: Ticket-243314245022200
-2024-12-15T08:57:27.108892500: com.lab.test.Vendor added: Ticket-243319249873200
-2024-12-15T08:57:32.117690100: com.lab.test.Vendor added: Ticket-243324258707400
-2024-12-15T08:57:37.120232400: com.lab.test.Vendor added: Ticket-243329261252400
-2024-12-15T08:57:42.128048500: com.lab.test.Vendor added: Ticket-243334269015300
-2024-12-15T08:57:47.131483100: com.lab.test.Vendor added: Ticket-243339272423600
-2024-12-15T13:49:11.739362300: THis is a test message
-2024-12-15T13:49:17.268385400: System configured successfully.
-2024-12-15T13:49:17.276386900: com.lab.test.Customer found no tickets available.
-2024-12-15T13:49:17.279384700: com.lab.test.Vendor added: Ticket-260829417995400
-2024-12-15T13:49:22.288981900: com.lab.test.Vendor added: Ticket-260834430087100
-2024-12-15T13:49:27.300596900: com.lab.test.Vendor added: Ticket-260839441647600
-2024-12-15T13:49:32.308888900: com.lab.test.Vendor added: Ticket-260844449863000
-2024-12-15T13:49:37.310439300: com.lab.test.Vendor added: Ticket-260849451441700
-2024-12-15T13:49:42.317466200: com.lab.test.Vendor added: Ticket-260854458345800
-2024-12-15T13:49:47.320954900: com.lab.test.Vendor added: Ticket-260859461887000
-2024-12-15T13:49:52.323289700: com.lab.test.Vendor added: Ticket-260864464260700
-2024-12-15T13:49:57.327473700: com.lab.test.Vendor added: Ticket-260869468513400
-2024-12-15T13:50:02.332844: com.lab.test.Vendor added: Ticket-260874473864300
-2024-12-15T13:50:07.347430400: System terminated.
-2024-12-15T13:54:17.999378700: THis is a test message
-2024-12-15T13:54:24.684734700: System configured successfully.
-2024-12-15T13:54:24.692734300: com.lab.test.Customer found no tickets available.
-2024-12-15T13:54:24.696733300: com.lab.test.FastVendor added: Ticket-261136834610100
-2024-12-15T13:54:24.699768700: com.lab.test.Vendor added: Ticket-261136834256800
-2024-12-15T13:54:24.699768700: com.lab.test.SlowVendor added: Ticket-261136834556700
-2024-12-15T13:54:27.199809: com.lab.test.FastVendor added: Ticket-261139340795500
-2024-12-15T13:54:29.712883100: com.lab.test.Vendor added: Ticket-261141853903600
-2024-12-15T13:54:34.711352900: com.lab.test.SlowVendor added: Ticket-261146852285400
-2024-12-15T13:54:34.727384600: System terminated.
-2024-12-15T13:55:50.882745400: THis is a test message
-2024-12-15T13:55:56.324508300: System configured successfully.
-2024-12-15T13:55:56.332421800: com.lab.test.Customer found no tickets available.
-2024-12-15T13:55:56.332421800: System terminated.
-2024-12-15T13:55:56.335417400: com.lab.test.FastVendor added: Ticket-261228473032200
-2024-12-15T13:55:58.845957300: com.lab.test.FastVendor added: Ticket-261230986984600
-2024-12-15T13:56:01.360533900: com.lab.test.FastVendor added: Ticket-261233501506500
-2024-12-15T13:56:03.865836800: com.lab.test.FastVendor added: Ticket-261236006878900
-2024-12-15T13:56:06.372977800: com.lab.test.FastVendor added: Ticket-261238513719400
-2024-12-15T13:59:53.830780200: THis is a test message
-2024-12-15T14:00:00.131050400: System configured successfully.
-2024-12-15T14:00:00.139051: com.lab.test.Customer found no tickets available.
-2024-12-15T14:00:00.139051: System terminated.
-2024-12-15T14:00:00.142046400: com.lab.test.SlowVendor added: Ticket-261472279732000
-2024-12-15T14:00:10.154740300: com.lab.test.SlowVendor added: Ticket-261482295755000
-2024-12-15T14:00:20.166442700: com.lab.test.SlowVendor added: Ticket-261492307463700
-2024-12-15T14:08:25.321773200: THis is a test message
-2024-12-15T14:08:29.934063400: System configured successfully.
-2024-12-15T14:08:29.941061800: com.lab.test.Customer found no tickets available.
-2024-12-15T14:08:29.944060200: com.lab.test.SlowVendor added: Ticket-261982082455500
-2024-12-15T14:08:39.960112500: com.lab.test.SlowVendor added: Ticket-261992101160400
-2024-12-15T14:24:16.173366500: THis is a test message
-2024-12-15T14:24:22.107585600: System configured successfully.
-2024-12-15T14:24:22.115534600: com.lab.test.Customer found no tickets available.
-2024-12-15T14:24:22.119709700: com.lab.test.SlowVendor added: Ticket-262934256857900
-2024-12-15T14:24:39.860852: THis is a test message
+2025-01-06T17:15:12.577281300: THis is a test message
+2025-01-06T17:15:18.322868700: System configured successfully.
+2025-01-06T17:15:18.328861600: Total Tickets Added: 0
+2025-01-06T17:15:18.328861600: com.lab.test.Vendor added: Ticket-637193244934100
+2025-01-06T17:15:18.330861500: Total Tickets Removed: 0
+2025-01-06T17:15:18.330861500: Current Tickets in Pool: 1
+2025-01-06T17:15:20.333031700: com.lab.test.Vendor added: Ticket-637195249061300
+2025-01-06T17:15:23.333232700: Total Tickets Added: 2
+2025-01-06T17:15:23.334123300: Total Tickets Removed: 0
+2025-01-06T17:15:23.335135100: Current Tickets in Pool: 2
+2025-01-06T17:15:28.330987400: com.lab.test.Customer retrieved: Ticket-637193244934100
+2025-01-06T17:15:28.345228500: Total Tickets Added: 2
+2025-01-06T17:15:28.345228500: Total Tickets Removed: 1
+2025-01-06T17:15:28.346246600: Current Tickets in Pool: 1
+2025-01-06T17:15:33.346954300: Total Tickets Added: 2
+2025-01-06T17:15:33.346954300: com.lab.test.Customer retrieved: Ticket-637195249061300
+2025-01-06T17:15:33.348867500: Total Tickets Removed: 2
+2025-01-06T17:15:33.349858400: Current Tickets in Pool: 0
+2025-01-06T17:15:38.349706: com.lab.test.Customer found no tickets available.
+2025-01-06T17:15:38.350598800: Total Tickets Added: 2
+2025-01-06T17:15:38.350598800: System terminated.
+2025-01-06T17:15:38.351650500: Total Tickets Removed: 3
+2025-01-06T17:15:38.352653800: Current Tickets in Pool: 0
+2025-01-06T17:15:43.353833300: Total Tickets Added: 2
+2025-01-06T17:15:43.354707100: Total Tickets Removed: 3
+2025-01-06T17:15:43.355779800: Current Tickets in Pool: 0
+2025-01-06T17:15:48.364382600: Total Tickets Added: 2
+2025-01-06T17:15:48.365269700: Total Tickets Removed: 3
+2025-01-06T17:15:48.366274600: Current Tickets in Pool: 0
+2025-01-06T17:15:53.373561700: Total Tickets Added: 2
+2025-01-06T17:15:53.374507400: Total Tickets Removed: 3
+2025-01-06T17:15:53.375436300: Current Tickets in Pool: 0
+2025-01-06T17:15:58.383384700: Total Tickets Added: 2
+2025-01-06T17:15:58.384282: Total Tickets Removed: 3
+2025-01-06T17:15:58.385280100: Current Tickets in Pool: 0
+2025-01-06T17:16:03.389046400: Total Tickets Added: 2
+2025-01-06T17:16:03.389046400: Total Tickets Removed: 3
+2025-01-06T17:16:03.389940500: Current Tickets in Pool: 0
+2025-01-06T17:16:05.758566800: THis is a test message
+2025-01-06T17:16:14.915029700: System configured successfully.
+2025-01-06T17:16:14.924033100: Total Tickets Added: 0
+2025-01-06T17:16:14.925028300: com.lab.test.Vendor added: Ticket-637249836819700
+2025-01-06T17:16:14.925028300: Total Tickets Removed: 0
+2025-01-06T17:16:14.926027700: Current Tickets in Pool: 1
+2025-01-06T17:16:16.936060800: com.lab.test.Vendor added: Ticket-637251852012000
+2025-01-06T17:16:18.937636: com.lab.test.Vendor added: Ticket-637253853545600
+2025-01-06T17:16:19.932559600: Total Tickets Added: 3
+2025-01-06T17:16:19.933413300: Total Tickets Removed: 0
+2025-01-06T17:16:19.934411: Current Tickets in Pool: 3
+2025-01-06T17:16:20.941668300: com.lab.test.Vendor added: Ticket-637255857481600
+2025-01-06T17:16:22.946511800: com.lab.test.Vendor added: Ticket-637257862502500
+2025-01-06T17:16:24.923957300: com.lab.test.Customer retrieved: Ticket-637249836819700
+2025-01-06T17:16:24.938292: Total Tickets Added: 5
+2025-01-06T17:16:24.939198800: Total Tickets Removed: 1
+2025-01-06T17:16:24.940246400: Current Tickets in Pool: 4
+2025-01-06T17:16:24.953567500: com.lab.test.Vendor added: Ticket-637259869467900
+2025-01-06T17:16:26.961291700: com.lab.test.Vendor added: Ticket-637261877296600
+2025-01-06T17:16:28.974775100: com.lab.test.Vendor added: Ticket-637263890756900
+2025-01-06T17:16:29.925218200: com.lab.test.Customer retrieved: Ticket-637251852012000
+2025-01-06T17:16:29.968040100: Total Tickets Added: 8
+2025-01-06T17:16:29.969136200: Total Tickets Removed: 2
+2025-01-06T17:16:29.969136200: Current Tickets in Pool: 6
+2025-01-06T17:16:30.978506200: com.lab.test.Vendor added: Ticket-637265894475900
+2025-01-06T17:16:32.988086200: com.lab.test.Vendor added: Ticket-637267904065600
+2025-01-06T17:16:34.937688900: com.lab.test.Customer retrieved: Ticket-637253853545600
+2025-01-06T17:16:34.984161800: Total Tickets Added: 10
+2025-01-06T17:16:34.985042400: Total Tickets Removed: 3
+2025-01-06T17:16:34.986041600: Current Tickets in Pool: 7
+2025-01-06T17:16:39.942892200: com.lab.test.Customer retrieved: Ticket-637255857481600
+2025-01-06T17:16:39.989257300: Total Tickets Added: 10
+2025-01-06T17:16:39.990302500: Total Tickets Removed: 4
+2025-01-06T17:16:39.991292600: Current Tickets in Pool: 6
+2025-01-06T17:16:44.945074800: com.lab.test.Customer retrieved: Ticket-637257862502500
+2025-01-06T17:16:45.006604700: Total Tickets Added: 10
+2025-01-06T17:16:45.007559900: Total Tickets Removed: 5
+2025-01-06T17:16:45.008513400: Current Tickets in Pool: 5
+2025-01-06T17:16:49.954701100: com.lab.test.Customer retrieved: Ticket-637259869467900
+2025-01-06T17:16:50.016739100: Total Tickets Added: 10
+2025-01-06T17:16:50.017659900: Total Tickets Removed: 6
+2025-01-06T17:16:50.018604: Current Tickets in Pool: 4
+2025-01-06T17:16:54.955969: com.lab.test.Customer retrieved: Ticket-637261877296600
+2025-01-06T17:16:55.033312800: Total Tickets Added: 10
+2025-01-06T17:16:55.034438700: Total Tickets Removed: 7
+2025-01-06T17:16:55.035397500: Current Tickets in Pool: 3
+2025-01-06T17:16:59.958475800: com.lab.test.Customer retrieved: Ticket-637263890756900
+2025-01-06T17:17:00.036845700: Total Tickets Added: 10
+2025-01-06T17:17:00.036845700: Total Tickets Removed: 8
+2025-01-06T17:17:00.037847200: Current Tickets in Pool: 2
+2025-01-06T17:17:04.960298200: com.lab.test.Customer retrieved: Ticket-637265894475900
+2025-01-06T17:17:05.038578900: Total Tickets Added: 10
+2025-01-06T17:17:05.038578900: Total Tickets Removed: 9
+2025-01-06T17:17:05.038578900: Current Tickets in Pool: 1
+2025-01-06T17:17:09.968145: com.lab.test.Customer retrieved: Ticket-637267904065600
+2025-01-06T17:17:10.046281900: Total Tickets Added: 10
+2025-01-06T17:17:10.046281900: Total Tickets Removed: 10
+2025-01-06T17:17:10.046281900: Current Tickets in Pool: 0
+2025-01-06T17:17:14.971010: com.lab.test.Customer found no tickets available.
+2025-01-06T17:17:14.971010: System terminated.
+2025-01-06T17:17:15.049295800: Total Tickets Added: 10
+2025-01-06T17:17:15.049295800: Total Tickets Removed: 11
+2025-01-06T17:17:15.049295800: Current Tickets in Pool: 0
+2025-01-06T17:17:20.055120700: Total Tickets Added: 10
+2025-01-06T17:17:20.055120700: Total Tickets Removed: 11
+2025-01-06T17:17:20.055120700: Current Tickets in Pool: 0
+2025-01-06T17:17:25.070232700: Total Tickets Added: 10
+2025-01-06T17:17:25.071095500: Total Tickets Removed: 11
+2025-01-06T17:17:25.071202900: Current Tickets in Pool: 0
+2025-01-06T17:17:29.471423: THis is a test message
+2025-01-06T17:17:30.763424100: THis is a test message
+2025-01-06T17:17:37.595023400: System configured successfully.
+2025-01-06T17:17:37.595023400: com.lab.test.Vendor added: Ticket-637332516145400
+2025-01-06T17:17:47.610551200: com.lab.test.Customer retrieved: Ticket-637332516145400
+2025-01-06T17:17:52.620858: com.lab.test.Customer found no tickets available.
+2025-01-06T17:17:52.620858: System terminated.
+2025-01-06T17:18:02.735850700: THis is a test message
+2025-01-06T17:18:11.833416300: System configured successfully.
+2025-01-06T17:18:11.848899: com.lab.test.Vendor added: Ticket-637366764263000
+2025-01-06T17:18:13.853491400: com.lab.test.Vendor added: Ticket-637368769306100
+2025-01-06T17:18:15.861510600: com.lab.test.Vendor added: Ticket-637370777544300
+2025-01-06T17:18:17.868193600: com.lab.test.Vendor added: Ticket-637372784305000
+2025-01-06T17:18:19.876550700: com.lab.test.Vendor added: Ticket-637374792487400
+2025-01-06T17:18:21.849588600: com.lab.test.Customer retrieved: Ticket-637366764263000
+2025-01-06T17:18:21.880982300: com.lab.test.Vendor added: Ticket-637376796869000
+2025-01-06T17:18:23.890543700: com.lab.test.Vendor added: Ticket-637378806523500
+2025-01-06T17:18:25.899332500: com.lab.test.Vendor added: Ticket-637380815356700
+2025-01-06T17:18:26.855410500: com.lab.test.Customer retrieved: Ticket-637368769306100
+2025-01-06T17:18:27.905724700: com.lab.test.Vendor added: Ticket-637382821878500
+2025-01-06T17:18:29.914176600: com.lab.test.Vendor added: Ticket-637384830155200
+2025-01-06T17:18:31.860275300: com.lab.test.Customer retrieved: Ticket-637370777544300
+2025-01-06T17:18:31.922884700: com.lab.test.Vendor added: Ticket-637386838867500
+2025-01-06T17:18:33.933676300: com.lab.test.Vendor added: Ticket-637388849630800
+2025-01-06T17:18:35.943239900: com.lab.test.Vendor added: Ticket-637390859249200
+2025-01-06T17:18:36.868048900: com.lab.test.Customer retrieved: Ticket-637372784305000
+2025-01-06T17:18:37.948909300: com.lab.test.Vendor added: Ticket-637392864909900
+2025-01-06T17:18:39.960620500: com.lab.test.Vendor added: Ticket-637394876746300
+2025-01-06T17:18:41.874036800: com.lab.test.Customer retrieved: Ticket-637374792487400
+2025-01-06T17:18:41.968310700: com.lab.test.Vendor added: Ticket-637396884689900
+2025-01-06T17:18:43.979487200: com.lab.test.Vendor added: Ticket-637398895423700
+2025-01-06T17:18:45.988980400: com.lab.test.Vendor added: Ticket-637400904945400
+2025-01-06T17:18:46.884226: com.lab.test.Customer retrieved: Ticket-637376796869000
+2025-01-06T17:18:47.999270200: com.lab.test.Vendor added: Ticket-637402915226000
+2025-01-06T17:18:50.006501900: com.lab.test.Vendor added: Ticket-637404922501500
+2025-01-06T17:18:51.899773200: com.lab.test.Customer retrieved: Ticket-637378806523500
+2025-01-06T17:18:52.009465600: com.lab.test.Vendor added: Ticket-637406925443400
