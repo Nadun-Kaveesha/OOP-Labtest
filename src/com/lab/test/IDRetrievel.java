@@ -9,6 +9,6 @@ public class IDRetrievel implements TicketRetrievalStrategy{
 
     @Override
     public String retrieveTicket() {
-        return ticketPool.re;
+        return ticketPool.removeTicket();
     }
 }

@@ -5,14 +5,33 @@
 
 package com.lab.test;
 
-public class Main {
-    public Main() {
-    }
+import java.io.IOException;
 
+public class Main {
 
     public static void main(String[] args) throws Exception {
-        Logger.log("This is a test message");
-        Configuration config = CommandLineInterface.configureSystem();
+        Configuration config = null;
+        String ConfigFilePath = "C:/Users/nadun/OneDrive/Desktop/OOP-Labtest/src/com/lab/test/config.json";
+
+        try {
+            config = Configuration.loadFromFile(ConfigFilePath);
+        } catch (IOException e) {
+            Logger.log("Configuration file not found or error reading file. Configuring system manually.");
+        }
+
+        if (config == null){
+            Logger.log("Configuring the system manually");
+            config = CommandLineInterface.configureSystem();
+            try {
+                config.saveToFile(ConfigFilePath);
+                Logger.log("Configuration saved to a file");
+            } catch (IOException e) {
+                Logger.log("Error saving the configuration file");
+            }
+        }else {
+            Logger.log("Configuration Loaded from the file");
+        }
+
         TicketPool ticketPool = new TicketPool();
         Thread vendor = new Thread(new Vendor(ticketPool, config.getTicketReleaseRate()));
         Thread fastvendor = new Thread(new FastVendor(ticketPool, config.getTicketReleaseRate()));
